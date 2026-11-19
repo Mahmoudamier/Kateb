@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.pdb
+*.user
+*.suo
+Thumbs.db
+desktop.ini
